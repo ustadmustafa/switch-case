@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\bin\Debug\net7.0\switch-case.exe
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\bin\Debug\net7.0\switch-case.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\bin\Debug\net7.0\switch-case.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\bin\Debug\net7.0\switch-case.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\bin\Debug\net7.0\switch-case.pdb
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\refint\switch-case.dll
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.pdb
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\switch-case.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Pratikler\switch-case\obj\Debug\net7.0\ref\switch-case.dll
